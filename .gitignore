@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+node_modules
+.next
+dist
+next.config.\*
+now.json
