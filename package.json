@@ -20,6 +20,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-stripe-checkout": "^2.6.3",
+    "realm": "^10.1.4",
+    "realm-web": "^1.2.0",
     "semantic-ui-react": "^2.0.3",
     "shortid": "^2.2.16",
     "stripe": "^8.132.0",
